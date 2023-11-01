@@ -1,3 +1,5 @@
+"use stict"
+
 function makeTransaction(quantity, pricePerDroid) {
     const product = quantity * pricePerDroid;
 }
